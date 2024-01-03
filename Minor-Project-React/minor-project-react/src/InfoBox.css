@@ -1,0 +1,12 @@
+h1{
+    color: black;
+}
+
+.InfoBox{
+    text-align: center;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
